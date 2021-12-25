@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/scoot-multi-page-website/static/css/main.91f35fd6.chunk.css",
+    "main.js": "/scoot-multi-page-website/static/js/main.a44f2f10.chunk.js",
+    "main.js.map": "/scoot-multi-page-website/static/js/main.a44f2f10.chunk.js.map",
+    "runtime-main.js": "/scoot-multi-page-website/static/js/runtime-main.d5c8de32.js",
+    "runtime-main.js.map": "/scoot-multi-page-website/static/js/runtime-main.d5c8de32.js.map",
+    "static/css/2.41953c31.chunk.css": "/scoot-multi-page-website/static/css/2.41953c31.chunk.css",
+    "static/js/2.a92498c6.chunk.js": "/scoot-multi-page-website/static/js/2.a92498c6.chunk.js",
+    "static/js/2.a92498c6.chunk.js.map": "/scoot-multi-page-website/static/js/2.a92498c6.chunk.js.map",
+    "static/js/3.738b1424.chunk.js": "/scoot-multi-page-website/static/js/3.738b1424.chunk.js",
+    "static/js/3.738b1424.chunk.js.map": "/scoot-multi-page-website/static/js/3.738b1424.chunk.js.map",
+    "index.html": "/scoot-multi-page-website/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/scoot-multi-page-website/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.91f35fd6.chunk.css.map": "/scoot-multi-page-website/static/css/main.91f35fd6.chunk.css.map",
+    "static/js/2.a92498c6.chunk.js.LICENSE.txt": "/scoot-multi-page-website/static/js/2.a92498c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/scoot-multi-page-website/static/media/home-hero-tablet.820b8b34.jpg",
+    "static/media/logo.6ce24c58.svg": "/scoot-multi-page-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5c8de32.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.a92498c6.chunk.js",
+    "static/css/main.91f35fd6.chunk.css",
+    "static/js/main.a44f2f10.chunk.js"
+  ]
+}
